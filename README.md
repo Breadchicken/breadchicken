@@ -59,18 +59,6 @@ Hey! I'm a **Project Manager** and **Fullstack Developer** from **Germany** 🇩
 ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)
 ![ChartDB](https://img.shields.io/badge/ChartDB-00758F?style=for-the-badge&logo=databricks&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breadchicken&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breadchicken&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Breadchicken&theme=radical&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak Stats"/>
-</div>
 
 ---
 
@@ -79,11 +67,6 @@ Hey! I'm a **Project Manager** and **Fullstack Developer** from **Germany** 🇩
 ### Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Breadchicken&theme=react-dark&hide_border=true&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
-### Contribution Calendar
-<div align="center">
-  <img src="https://ghchart.rshah.org/61DAFB/Breadchicken" alt="Contribution Calendar"/>
 </div>
 
 ### Recent Activity
